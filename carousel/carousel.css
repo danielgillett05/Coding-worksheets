@@ -5,7 +5,8 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: rgb(var(--bs-tertiary-color-rgb));
+  color: burlywood;
+  background-color: grey;
 }
 
 
@@ -20,6 +21,7 @@ body {
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
+  text-align: left;
 }
 
 /* Declare heights because of positioning of img element */
